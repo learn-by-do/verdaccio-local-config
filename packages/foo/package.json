@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@jonge/bar": "^1.0.1-rc.1"
+  }
 }

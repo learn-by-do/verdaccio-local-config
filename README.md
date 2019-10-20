@@ -1,9 +1,13 @@
 # docker Verdaccio 本地配置
 
+文档：https://www.yuque.com/nuzhi/fe-notes/npm-private-repository
+
 * conf: 配置文件和默认 htpasswd
 
 ```bash
-docker-compose up
+docker-compose up -d
+
+# access http://0.0.0.0:4873/
 ```
 
 ## 权限

@@ -1,3 +1,6 @@
+import { bar } from '@jonge/bar';
+
 export const foo = () => {
-  console.log('foo...')
-}
+  bar();
+  console.log('foo...');
+};
